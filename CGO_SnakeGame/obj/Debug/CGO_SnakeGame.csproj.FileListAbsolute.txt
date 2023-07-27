@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\bin\Debug\CGO_SnakeGame.exe.config
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\bin\Debug\CGO_SnakeGame.exe
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\bin\Debug\CGO_SnakeGame.pdb
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\obj\Debug\CGO_SnakeGame.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\obj\Debug\CGO_SnakeGame.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\obj\Debug\CGO_SnakeGame.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\obj\Debug\CGO_SnakeGame.exe
+D:\GitHub\Project\BTVN\CGO_SnakeGame\CGO_SnakeGame\obj\Debug\CGO_SnakeGame.pdb
